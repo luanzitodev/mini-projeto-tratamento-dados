@@ -4,19 +4,19 @@
 Projeto desenvolvido com o objetivo de praticar a leitura, tratamento e consolidação de dados utilizando Python e pandas, simulando um cenário comum da área de dados.
 
 ## 📂 Estrutura do Projeto
-![Estrutura do projeto](images/estrutura.png)
+![Estrutura do projeto](mini-projeto-tratamento-dados/images/estrutura.png)
 
 ## 📊 Excel de Entrada
-![Excel com abas](images/excel.png)
+![Excel com abas](mini-projeto-tratamento-dados/images/excel.png)
 
 ## 🧑‍💻 Código
-![Código Python](images/codigo_python.png)
+![Código Python](mini-projeto-tratamento-dados/images/codigo_python.png)
 
 ## ▶️ Execução
-![Execução no terminal](images/execucao.png)
+![Execução no terminal](mini-projeto-tratamento-dados/images/execucao.png)
 
 ## 📈 Resultado
-![CSV final](images/csv_final.png)
+![CSV final](mini-projeto-tratamento-dados/images/csv_final.png)
 
 ---
 
